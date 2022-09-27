@@ -3,6 +3,17 @@
     height: auto;
 }
 
+.sidenav {
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #FFFFFF;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
 body {
     background-color: beige;
     text-align: center;
@@ -27,15 +38,11 @@ h3 {
 }
 
 h4 {
-    color: #8A9A5B;
+    color: #FF3333;
 }
 
 h5 {
     color: #D27D2D;
-}
-
-h6 {
-    color: #8B0000;
 }
 
 p {
@@ -53,7 +60,6 @@ ul.list_format {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  height: 50%;
+  width: 30%;
 }
 
