@@ -1,0 +1,59 @@
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: beige;
+    text-align: center;
+}
+
+strong {
+    font-weight: bold;
+    background-color: #9FE2BF;
+}
+
+h1 {
+    color: #353935;
+    background-image: url("CleanRoom.png");
+}
+
+h2 {
+    color: #7393B3;
+}
+
+h3 {
+    color: #36454F;
+}
+
+h4 {
+    color: #8A9A5B;
+}
+
+h5 {
+    color: #D27D2D;
+}
+
+h6 {
+    color: #8B0000;
+}
+
+p {
+    color: brown;
+}
+
+ul.list_format {
+    list-style-type: none;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+.image_format {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
